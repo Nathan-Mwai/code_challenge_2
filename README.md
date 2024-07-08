@@ -133,6 +133,7 @@ This part can be found in the Buttons section
 ## License
 [GITHUB](https://github.com/Nathan-Mwai)
 
+[LiNK TO WEBSITE](https://nathan-mwai.github.io/code_challenge_2/)
 
 
 
